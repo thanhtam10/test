@@ -4,8 +4,10 @@
 * [Page 1](page-1.md)
 * [Page 2](page-2.md)
 * [Test](ABCXYZ.md)
-* [Page1](testfolder/page1.md)
-* [Page2](testfolder/page2.md)
+
+## Test folder
+* [Page1](test-folder/page1.md)
+* [Page2](test-folder/page2.md)
 
 ## Group 1
 
