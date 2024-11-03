@@ -5,7 +5,7 @@
 * [Page 2](page-2.md)
 * [Test](ABCXYZ.md)
 * [Page1](testfolder/page1.md)
-* [Page2]](testfolder/page2.md)
+* [Page2](testfolder/page2.md)
 
 ## Group 1
 
