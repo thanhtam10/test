@@ -4,4 +4,4 @@
 * [Page 1](page-1.md)
 * [Page 2](page-2.md)
 * [Test](ABCXYZ.md)
-* [Test](testfolder/page1)
+* [Folder Page](testfolder/page1.md)
