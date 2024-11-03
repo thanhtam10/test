@@ -4,7 +4,7 @@
 * [Page 1](page-1.md)
 * [Page 2](page-2.md)
 * [Test](ABCXYZ.md)
-* [Haha](Haha.md)
+* [Haha](haha.md)
 
 ## Test folder
 * [Page1](test-folder/page1.md)
