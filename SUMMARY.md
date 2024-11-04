@@ -5,6 +5,7 @@
 * [Page 2](page-2.md)
 * [Test](ABCXYZ.md)
 * [haha](haha.md)
+* [test mono](testmono.md)
 
 ## Test folder
 * [Page1](test-folder/page1.md)
