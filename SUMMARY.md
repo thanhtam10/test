@@ -5,7 +5,7 @@
 
 ## Group 1
 
-* [Page đổi tên](group-1/page-doi-ten.md)
+* [Page tâm](group-1/page-tam.md)
 * [Page 2](group-1/page-2.md)
 
 ***
